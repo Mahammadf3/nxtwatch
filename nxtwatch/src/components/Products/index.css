@@ -1,0 +1,12 @@
+.productContainer {
+    display: flex;
+    flex-direction: row;
+  }
+  .leftData {
+    width: 20%;
+    align-self: flex-start;
+    background-color: black;
+    color: azure;
+    height: 100%;
+  }
+  

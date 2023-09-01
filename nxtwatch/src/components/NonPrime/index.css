@@ -1,0 +1,29 @@
+.nonPrimeContainer {
+    display: flex;
+    flex-direction: column;
+  }
+  .nonPrimeList1 {
+    display: flex;
+    flex-wrap: wrap;
+    align-self: flex-end;
+    margin-left: 42px;
+  }
+  .search {
+    width: 30vw;
+    height: 22px;
+    margin-left: 90px;
+  }
+  .products-loader-container {
+    display: flex;
+    align-self: center;
+  }
+  .fail {
+    height: 70%;
+  }
+  .primeSearch {
+    margin-top: 12px;
+  }
+  .red {
+    color: #ff0000;
+  }
+  

@@ -1,0 +1,77 @@
+.descriptionContainer12 {
+    display: flex;
+    flex-direction: column;
+  }
+  .disContainer1 {
+    display: flex;
+    flex-direction: row;
+  }
+  .ulContainer1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+  }
+  .kViews1 {
+    display: flex;
+    flex-direction: row;
+  }
+  .viewContainer33 {
+    display: flex;
+    flex-direction: row;
+  }
+  .name1 {
+    margin-left: 3px;
+    margin-right: 12px;
+  }
+  .spaceData1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .finalSpace1 {
+    display: flex;
+    flex-direction: row;
+  }
+  .line {
+    width: 80vw;
+  }
+  .bottomLogo1 {
+    display: flex;
+    flex-direction: row;
+  }
+  .logoContainer {
+    height: 100px;
+  }
+  .okContainer1 {
+    display: flex;
+    flex-direction: column;
+  }
+  .helloMoto1 {
+    display: flex;
+    flex-direction: row;
+  }
+  .subscriber1 {
+    padding-left: 12px;
+  }
+  .likeContainer1 {
+    margin-left: 13px;
+    margin-right: 13px;
+    cursor: pointer;
+  }
+  .helloData1 {
+    display: flex;
+    flex-direction: row;
+  }
+  .liky1 {
+    margin-top: 20px;
+  }
+  .homeContainer587 {
+    background-color: #0f0f0f;
+  }
+  .white2 {
+    color: #f9f9f9;
+  }
+  .blue78 {
+    color: #4f46e5;
+  }
+  

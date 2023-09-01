@@ -1,0 +1,74 @@
+.descriptionContainer {
+    display: flex;
+    flex-direction: column;
+  }
+  .disContainer {
+    display: flex;
+    flex-direction: row;
+  }
+  .ulContainer {
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+  }
+  .kViews {
+    display: flex;
+    flex-direction: row;
+  }
+  .viewContainer3 {
+    display: flex;
+    flex-direction: row;
+  }
+  .name {
+    margin-left: 3px;
+    margin-right: 12px;
+  }
+  .spaceData {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .finalSpace {
+    display: flex;
+    flex-direction: row;
+  }
+  .line {
+    width: 80vw;
+  }
+  .bottomLogo {
+    display: flex;
+    flex-direction: row;
+  }
+  .logoContainer {
+    height: 100px;
+  }
+  .okContainer {
+    display: flex;
+    flex-direction: column;
+  }
+  .helloMoto {
+    display: flex;
+    flex-direction: row;
+  }
+  .subscriber {
+    padding-left: 12px;
+  }
+  .likeContainer {
+    margin-left: 13px;
+    margin-right: 13px;
+    cursor: pointer;
+  }
+  .helloData {
+    display: flex;
+    flex-direction: row;
+  }
+  .liky {
+    margin-top: 20px;
+  }
+  .homeContainer58 {
+    background-color: #0f0f0f;
+  }
+  .white {
+    color: #f9f9f9;
+  }
+  

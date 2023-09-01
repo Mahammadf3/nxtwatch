@@ -1,0 +1,12 @@
+.containerGames {
+    display: flex;
+    flex-direction: column;
+  }
+  .wrapGame {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .m {
+    color: #ffffff;
+  }
+  

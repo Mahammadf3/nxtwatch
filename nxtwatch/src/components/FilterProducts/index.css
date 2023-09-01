@@ -1,0 +1,58 @@
+.navContainer {
+    display: flex;
+    flex-direction: column;
+    width: 19%;
+    align-self: flex-start;
+    height: 100vh;
+    color: azure;
+  }
+  .homeIcon {
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+  }
+  .homeButton {
+    background-color: #231f20;
+  }
+  .homeIcon1 {
+    margin-left: 12px;
+  }
+  .contactContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 20%;
+    height: 100%;
+    background-color: #231f20;
+  }
+  .addressContainer {
+    display: flex;
+    flex-direction: column;
+  }
+  .h3 {
+    color: #f9f9f9;
+    margin: 16px;
+  }
+  .socialContainer {
+    display: flex;
+  }
+  .facebook {
+    color: #4f46e5;
+    margin: 16px;
+    height: 25px;
+  }
+  .insta {
+    color: #ff0b37;
+    margin: 16px;
+    height: 25px;
+  }
+  .linkedin {
+    color: #4f46e5;
+    margin: 16px;
+    height: 25px;
+  }
+  .homeLink {
+    text-decoration: none;
+    color: #f9f9f9;
+  }
+  

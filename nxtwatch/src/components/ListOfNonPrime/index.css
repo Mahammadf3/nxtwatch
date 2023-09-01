@@ -1,0 +1,51 @@
+.list {
+    list-style-type: none;
+    height: 390px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 4px 16px 0px #1e293b;
+    margin: 9px;
+  }
+  
+  .thumb {
+    height: 160px;
+    width: 290px;
+  }
+  .title {
+    width: 210px;
+    color: #3b82f6;
+  }
+  .profie {
+    height: 50px;
+    display: flex;
+    align-self: flex-start;
+  }
+  .theory {
+    display: flex;
+    flex-direction: row;
+    padding: 22px;
+    color: #3b82f6;
+  }
+  
+  .rating {
+    display: flex;
+    align-items: center;
+  }
+  .cardView {
+    display: flex;
+  }
+  .v {
+    margin-left: 12px;
+  }
+  .publish {
+    margin-left: 12px;
+  }
+  .profileContainer1 {
+    display: flex;
+    flex-direction: column;
+  }
+  .listNonPrime {
+    text-decoration: none;
+  }
+  

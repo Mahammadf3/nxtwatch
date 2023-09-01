@@ -1,0 +1,22 @@
+.containerPrime {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 30vh;
+    background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
+    background-size: cover;
+    margin-right: 12px;
+  }
+  .primeLogo {
+    height: 20px;
+  }
+  .banner {
+    margin-left: 20px;
+    margin-top: 12px;
+  }
+  .cross {
+    display: flex;
+    align-self: flex-end;
+    cursor: pointer;
+  }
+  

@@ -1,0 +1,27 @@
+.containData {
+    display: flex;
+    flex-direction: column;
+  }
+  .hiData3 {
+    display: flex;
+    flex-direction: row;
+  }
+  .hiData5 {
+    display: flex;
+    flex-direction: column;
+  }
+  .homeContainer19 {
+    background-color: #0f0f0f;
+  }
+  .hiData33 {
+    display: flex;
+    flex-direction: row;
+  }
+  .hiData55 {
+    display: flex;
+    flex-direction: column;
+  }
+  .noSave {
+    height: 100vh;
+  }
+  

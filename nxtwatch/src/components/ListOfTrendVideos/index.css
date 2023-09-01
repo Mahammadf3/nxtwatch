@@ -1,0 +1,33 @@
+.videosTrens {
+    display: flex;
+    flex-direction: row;
+    box-shadow: 0px 4px 16px 0px #475569;
+    margin: 12px;
+  }
+  .thumbNailCard {
+    display: flex;
+    flex-direction: column;
+    margin-left: 12px;
+  }
+  .bottomNail {
+    display: flex;
+    flex-direction: row;
+  }
+  .thumbCard1 {
+    height: 25vh;
+  }
+  .viewCard {
+    margin-right: 14px;
+    color: black;
+  }
+  .view1 {
+    color: #212121;
+  }
+  .view2 {
+    color: #ffffff;
+  }
+  .trendList {
+    list-style-type: none;
+    text-decoration: none;
+  }
+  
